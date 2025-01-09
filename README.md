@@ -1,4 +1,5 @@
 🌦️ Weather Forecast Application
+
 📖 Overview
 This Python-based project provides a weather forecasting web application built with Streamlit. It fetches real-time weather data using the OpenWeatherMap API and displays temperature trends, sky conditions, and other forecast details in an interactive and user-friendly interface.
 
