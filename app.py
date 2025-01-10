@@ -1,5 +1,3 @@
-from os import write
-
 import streamlit as st
 import plotly.express as px
 from backend import get_data
